@@ -10,14 +10,14 @@ Make sure you have a spreadsheet containing temperature data
 
 Clone this repository and then install dependencies
 
-'''
+```
 pip install requirements.txt
-'''
+```
 
 ## Run
-'''
+```
 python analyse_spreadsheet.py
-'''
+```
 The program will prompt you for the path to the spreadsheet 
 
 # Authors
